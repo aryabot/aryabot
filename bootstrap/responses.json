@@ -1,0 +1,62 @@
+{
+    "first_timer": [
+        "Hey there! I'm Aryabot, your friendly neighbourhood Robot. You can ask me anything and I'll do it for you! Well, almost anything.. :)",
+        "Namaste _/\\_ I'm Aryabot. I am a robot that can do anything you want. All you have to do is ask. Ask me anything and I'll probably be able to do it ;)",
+        "Hey there. I'm Batman! Ah, I'm kidding. I'm more like a digital Alfred though. You can call me Aryabot and I do anything you ask (Almost) :P",
+        "Hi I'm Aryabot. I help people by being their personal assistant. I'm more of a cool dude type friend. I can do a lot of things for you. All you have to do is ask :)"
+    ],
+    "feeling_dumb": [
+        "Errr, could you repeat? or be more clear? I didn't quite get that part",
+        "Oh wait.. I'm feeling a bit dumb! Could you be more clear?",
+        "Well this is embrassing! I did not get that. Care to elaborate?"
+    ],
+    "greeting": [
+        "Hi!",
+        "Hey there!",
+        "Yo! What's up?",
+        "Hey bro!",
+        "Good day!",
+        "Namaste!",
+        "Let there be rock! I mean.. Hi!"
+    ],
+    "greeting_again": [
+        "Hey, good to hear from you again",
+        "I'm here! was just taking a small nap",
+        "Hi there.. Did you miss me?",
+        "Yoo Bro! Long time no see"
+    ],
+    "farewell": [
+        "Tata!",
+        "Bye!",
+        "See ya!",
+        "Glad I could help",
+        "Good talking to you",
+        "Aww, I'm gonna miss you!"
+    ],
+    "get_cab": [
+        "Please send me your location",
+        "Cool, where are you at the moment? Can you gimme a location?",
+        "Yeah Sure! Anything for you. where are you now? your location?"
+    ],
+    "only_one_cab_available": [
+        "Looks like this is the only one available. Should I book it?",
+        "Apparently this is the only one that's there. Shall I book it for you?"
+    ],
+    "multiple_cabs_available": [
+        "Which one would you like me to book? Gimme the name.",
+        "Which one shall I book? Please tell the name of the cab?"
+    ],
+    "single_cab": [
+        "There is an __cab_name__, about __time__ minutes away",
+        "There's an __cab_name__ which is takes __time__ minutes"
+    ],
+    "contact_recieved": [
+        "Thanks for the refrence __name__ . I'll ask __contact__ if they would use me! No pun intended :P",
+        "Thank you! I'll ping __contact__ and see if they need my help"
+    ],
+    "error_message": [
+        "Oh Shoot! Some thing went horribly wrong over here. I'll be back in a while.",
+        "Shit! Something went wrong here. Talk to you later. Sorry!",
+        "Oh Man.. Something went wrong here.. Gotta Go!"
+    ]
+}
